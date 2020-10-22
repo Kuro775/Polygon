@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Trapezium
+comment1.params=
+comment1.target=Trapezium()
+comment2.params=b1\ b2\ h\ s1\ s2\ a1\ a2
+comment2.target=Trapezium(double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment3.params=
+comment3.target=void\ calculateArea()
+comment4.params=
+comment4.target=java.lang.String\ getMyType()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
